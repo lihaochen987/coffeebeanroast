@@ -54,7 +54,8 @@ footer {
 }
 
 #uploadImage{
-    float:left
+    float:left;
+    width:61%;
 }
 
 #dvColoursample{
@@ -99,4 +100,32 @@ footer {
     left: 495px;
     top: 177px;
     z-index: 0;
+}
+
+#load-image{
+    width: 15%;
+}
+
+#rolling-view{
+    width: 24%;
+    text-align : center;
+}
+
+#load-image{
+    width: 15%;
+}
+
+#coffee-bean-roast-colour{
+    width: 80%;
+}
+
+#tdbutton{
+    width: 20%;
+    text-align: left;
+}
+
+.Comments {
+    style: "...";
+    width: 622px;
+    text-align: center;
 }
